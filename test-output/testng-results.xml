@@ -2,15 +2,19 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="59937" started-at="2020-07-28T05:52:35Z" finished-at="2020-07-28T05:53:35Z">
+  <suite name="Default suite" duration-ms="20800" started-at="2020-07-30T16:08:59Z" finished-at="2020-07-30T16:09:20Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="59937" started-at="2020-07-28T05:52:35Z" finished-at="2020-07-28T05:53:35Z">
+    <test name="Default test" duration-ms="20800" started-at="2020-07-30T16:08:59Z" finished-at="2020-07-30T16:09:20Z">
       <class name="com.test.LivingPageTest">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.LivingPageTest@5e3a8624]" name="openBrowser" duration-ms="59830" started-at="2020-07-28T05:52:35Z" finished-at="2020-07-28T05:53:35Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.LivingPageTest@3d299e3]" name="openBrowser" is-config="true" duration-ms="20538" started-at="2020-07-30T16:08:59Z" finished-at="2020-07-30T16:09:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="getLivingItems()[pri:0, instance:com.test.LivingPageTest@3d299e3]" name="getLivingItems" duration-ms="215" started-at="2020-07-30T16:09:20Z" finished-at="2020-07-30T16:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLivingItems -->
       </class> <!-- com.test.LivingPageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
